@@ -23,3 +23,7 @@ available, in case you are using AD. You can infact, use the Web service version
 non-AD scenarios. The reason for using .Net AD APIs for the AD based version, is that, it is slightly faster 
 than the flavor using only the web services. However, you can always use the web service flavor of the 
 utility in both the scenarios.
+
+Note: I have moved this from my actual project hosted (now archived) in CodePlex at:
+
+https://archive.codeplex.com/?p=invalidspsiteusers
